@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sete Passos para Blibia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sete Passos para Blibia</h1>
+        <p>Descubra os Mistérios e Sabedoria da Bíblia em Sete Passos!</p>
+    </header>
+
+    <section id="about-book">
+        <h2>Sobre o Livro</h2>
+        <p>"Sete Passos para Blibia" é uma jornada espiritual que oferece um caminho claro e prático para se conectar profundamente com a Bíblia.</p>
+    </section>
+
+    <section id="steps">
+        <h2>O que você vai aprender:</h2>
+        <ul>
+            <li><strong>Passo 1:</strong> Compreendendo as Escrituras</li>
+            <li><strong>Passo 2:</strong> Meditação e Reflexão</li>
+            <li><strong>Passo 3:</strong> Aplicação Prática</li>
+            <li><strong>Passo 4:</strong> Oração e Conexão com Deus</li>
+            <li><strong>Passo 5:</strong> Compartilhando a Palavra</li>
+            <li><strong>Passo 6:</strong> Fortalecimento da Fé</li>
+            <li><strong>Passo 7:</strong> Viver a Palavra</li>
+        </ul>
+    </section>
+
+    <section id="testimonials">
+        <h2>Depoimentos</h2>
+        <p>"Este livro mudou completamente minha maneira de enxergar a Bíblia. Agora sinto uma conexão mais forte com Deus."<br><em>— João Silva</em></p>
+        <p>"Uma leitura essencial para qualquer pessoa que deseja aprofundar sua fé e compreensão da Bíblia."<br><em>— Maria Oliveira</em></p>
+    </section>
+
+    <section id="author">
+        <h2>Sobre o Autor</h2>
+        <p>O autor de "Sete Passos para Blibia" é um estudioso renomado das Escrituras, com anos de experiência em orientar indivíduos em sua jornada espiritual.</p>
+    </section>
+
+    <section id="cta">
+        <h2>Adquira o Seu Exemplar Hoje!</h2>
+        <p><strong>Preço Especial:</strong> R$ 39,90</p>
+        <button>Comprar Agora</button>
+    </section>
+
+    <section id="newsletter">
+        <h2>Cadastre-se para Receber Novidades e Conteúdo Exclusivo</h2>
+        <form>
+            <input type="email" placeholder="Digite seu e-mail">
+            <button type="submit">Assine Agora</button>
+        </form>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sete Passos para Blibia. Todos os direitos reservados. | <a href="#">Política de Privacidade</a> | <a href="#">Termos de Uso</a> | <a href="#">Contato</a></p>
+    </footer>
+</body>
+</html>
+/* Reset de CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: white;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.2rem;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    color: #4CAF50;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+#cta {
+    text-align: center;
+}
+
+#cta button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#cta button:hover {
+    background-color: #45a049;
+}
+
+#newsletter form {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+#newsletter input[type="email"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+#newsletter button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#newsletter button:hover {
+    background-color: #45a049;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 0.9rem;
+    color: #777;
+}
+
+footer a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
