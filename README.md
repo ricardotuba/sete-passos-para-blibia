@@ -23,3 +23,25 @@ Reset de CSS: Para garantir uma aparência consistente em diferentes navegadores
 Estilo Global: Definições de fonte, cores e espaçamento geral.
 Estilo das Seções: Personalizações para cabeçalhos, listas, botões, formulários e rodapé.
 Efeitos de Transição: Para botões e links, proporcionando uma melhor experiência ao usuário.# sete-passos-para-blibia
+Como Usar
+Clone este repositório: Baixe o código em seu ambiente local usando o comando:
+
+bash
+Copiar código
+git clone https://github.com/seuusuario/sete-passos-para-blibia.git
+Abra o arquivo HTML: Navegue até a pasta do projeto e abra o arquivo index.html em seu navegador.
+
+Personalize o conteúdo: Se necessário, edite o conteúdo do arquivo index.html para adaptar o texto ou as informações ao seu projeto específico.
+
+Estilize conforme necessário: Se desejar alterar o design, modifique o arquivo styles.css para ajustar cores, fontes, layout, etc.
+
+Funcionalidades
+Design Responsivo: A landing page foi projetada para ser visualizada em diferentes dispositivos, ajustando-se automaticamente para telas de desktop, tablet e celular.
+Chamada para Ação: Inclui botões interativos para incentivar a compra do livro e a assinatura da newsletter.
+Fácil Personalização: A estrutura clara e o código organizado permitem que seja facilmente customizado para outras campanhas ou produtos.
+Contribuições
+Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+Licença
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
